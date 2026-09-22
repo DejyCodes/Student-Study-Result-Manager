@@ -26,4 +26,4 @@ This project was created as a practical Python project to manage student study i
 
 ## Author
 
-Khadija
+Khadija Khalil

@@ -1,0 +1,4 @@
+Mimi|01|Python:95,Math:85,Eng:91,|Python:4.0,Math:2.5,Eng:1.5,
+Dejy|02|Python:90,Math:95,Eng:80,|Python:4.0,Math:2.0,Eng:1.0,
+Khamal|03|Python:89,Math:95,Eng:95,|Python:4.0,Math:2.0,Eng:1.0,
+Keeju|04|Python:90,Math:95,Eng:91,|Python:3.0,Math:2.0,Eng:1.0,
